@@ -17,4 +17,4 @@ jobs:
       with:
         java-version: 11
     - name: Build with Maven
-      run: mvn -B -e verfy
+      run: mvn -B -e verify
